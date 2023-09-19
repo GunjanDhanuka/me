@@ -23,8 +23,26 @@ title = "Gunjan Dhanuka"
 subtitle = "CSE IITG'24 | Traveller | Techie with an itch for writing" 
 imageUrl = "https://gunjandhanuka.com/images/gd_new_pic.jpg"
 imageTitle = "Profile Picture"
-imageWidth = 120
-imageHeight = 120
+imageWidth = 240
+imageHeight = 240
+
+[[menu.main]]
+identifier = "posts"
+name = "Blogs"
+url = "/posts/"
+weight = 30
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 30
+
+[[menu.main]]
+identifier = "cv"
+name = "CV"
+url = "https://gunjandhanuka.com/data/GunjanResume.pdf"
+weight = 20
 
 [[params.profileMode.buttons]]
 name = "Blogs"
