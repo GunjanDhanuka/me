@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://me.gunjandhanuka.com/categories/</loc>
+    <loc>https://me.gunjandhanuka.com/projects/</loc>
+    <lastmod>2023-09-19T16:17:08+05:30</lastmod>
   </url><url>
     <loc>https://me.gunjandhanuka.com/</loc>
+    <lastmod>2023-09-19T00:03:15+05:30</lastmod>
+  </url><url>
+    <loc>https://me.gunjandhanuka.com/posts/my-first-post/</loc>
+    <lastmod>2023-09-19T00:03:15+05:30</lastmod>
+  </url><url>
+    <loc>https://me.gunjandhanuka.com/posts/</loc>
+    <lastmod>2023-09-19T00:03:15+05:30</lastmod>
+  </url><url>
+    <loc>https://me.gunjandhanuka.com/posts/freshman-year-at-iit-guwahati/</loc>
+  </url><url>
+    <loc>https://me.gunjandhanuka.com/categories/</loc>
+  </url><url>
+    <loc>https://me.gunjandhanuka.com/search/</loc>
   </url><url>
     <loc>https://me.gunjandhanuka.com/tags/</loc>
   </url>
