@@ -2,11 +2,24 @@ baseURL = 'https://me.gunjandhanuka.com/'
 languageCode = 'en-us'
 title = 'Gunjan Dhanuka'
 theme = 'PaperMod'
+disqusShortname = 'gunjandhanuka'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+ShowShareButtons = true
+ShowReadingTime = true
+ShowToc = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+comments = true
 
 [params.profileMode]
 enabled = true
 title = "Gunjan Dhanuka"
-subtitle = "CSE IITG '24 | Traveller | YouTuber | Quizzard"
+subtitle = "CSE IITG'24 | Traveller | Techie with an itch for writing" 
 imageUrl = "https://gunjandhanuka.com/images/gd_new_pic.jpg"
 imageTitle = "Profile Picture"
 imageWidth = 120
@@ -25,10 +38,18 @@ name = "CV"
 url = "https://gunjandhanuka.com/data/GunjanResume.pdf"
 
 [[params.socialIcons]]
-name = "Instagram"
-url = "<link>"
+name = "Linkedin"
+url = "https://in.linkedin.com/in/gunjan-dhanuka/"
 
 [[params.socialIcons]]
-name = "<platform 2>"
-url = "<link2>"
+name = "Instagram"
+url = "https://www.instagram.com/gunjan_dhanuka/"
+
+[[params.socialIcons]]
+name = "Medium"
+url = "https://gunjan-dhanuka.medium.com/"
+
+[[params.socialIcons]]
+name = "Mail"
+url = "https://gunjan-dhanuka.medium.com/"
 
