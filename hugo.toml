@@ -4,6 +4,7 @@ title = 'Gunjan Dhanuka'
 theme = 'PaperMod'
 disqusShortname = 'gunjandhanuka'
 enableEmoji = true
+googleAnalytics = "G-GVK924BEC6"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]

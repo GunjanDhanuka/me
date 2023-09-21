@@ -1,5 +1,5 @@
 +++
-title = 'Summer Internship at Rubrik'
+title = 'Summer Internship Experience at Rubrik'
 date = 2023-09-21T12:42:06+05:30
 description = "The most productive and fun summer I had!"
 draft = false
