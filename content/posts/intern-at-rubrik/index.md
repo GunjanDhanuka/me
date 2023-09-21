@@ -5,21 +5,24 @@ description = "The most productive and fun summer I had!"
 draft = false
 tags = ['experience', 'career', 'intern']
 ShowToc = false
+[cover]
+image = "/posts/intern-at-rubrik/desk.jpg"
+alt = "My desk at Rubrik"
+caption = "My Desk Setup at Rubrik"
+relative = false
 +++
 
 In the summer of 2023, I got an opportunity to intern as a Software Engineer at Rubrik's India office in Bengaluru. Let's reflect back on some of the experiences of my internship together. Separate blog on Namma Bengaluru coming soon!
 
-{{< figure src="cessna.jpg" align="center" title="Cessna Business Park" >}}
-
 ## Day 0
 So we (Aman and myself) landed in Bengaluru directly from Guwahati on a fine Saturday afternoon and checked in to our hotels. The weekend was spent in interacting with other interns who were mostly from other old IITs, IIIT-H and BITS. The people had a diverse skillsets and we discussed (*read, complained*) at length about the people, courses and profs at our institutes xD. However, I was very excited to know the CS curriculum (especially at IIT Delhi) was much more hands-on and flexible. I wish IITG soon moves towards such a structure.
-
-{{< figure src="8th_floor.jpg" align="center" title="Refreshment Counter">}}
 
 ## Day 1
 So, the first Monday all of us were ready on time and boarded the office cabs at 9 AM sharp. Upon reaching, we were treated with scrumptous breakfast and given our schedules for the week. It was going to be an exciting (*more on that later*) week with all the teams presenting a broad idea of what they do. Also, we were all alloted a buddy/mentor who is a full-time SDE at Rubrik, and will be helping us with regular issues. We would report to our managers, who will assign us projects and tasks.
 
 My buddy (Rishabh) and mentor (Devendra) were both working remotely, so I had brief calls with them. Since we had a floating desk policy, I was feeling kinda lost in the office, seeing other interns going to sit with their mentors/managers. Then Siddharthi from my team (**Team Legion** 💪) took me to where they sat, and we exchanged hello's and hi's.
+
+{{< figure src="cessna.jpg" align="center" title="Cessna Business Park" >}}
 
 ## Week 1
 The first week was mostly onboarding stuff, we would have 3-4 hours of meetings in the first half of the day *(Remember when I told this would be exciting?)* 🥲. The rest of teh day was spent in setting up the dev environments and reading through documentation.
@@ -37,11 +40,11 @@ In the subsequent weeks, I was conducting extensive experiments on the existing 
 
 On the bright side, I had prepared loads of Google Docs, found out a number of potential errors and figured out a tentative flow for our solution. Then I prepared a single Master Doc that contained all my findings and possible workflows. It was nicely appreciated on our team's Slack, and I was now happy with how things were going!
 
-Most of the Trident team was based in the U.S., but they were always helpful and critical about the smallest of details (which definitely helped me immensely)! The proof-of-concept was now complete, and green flag was given to start the implementation 🚀. 
+Most of the Trident team was based in the U.S., but they were always helpful and critical about the smallest of details (which definitely helped me immensely)! The proof-of-concept was now complete, and green flag was given to start the implementation 🚀.
 
 Rubrik's CEO, Bipul, visited India during our second week and we had a grant treat at The Conrad. He hailed from Bihar, my home state, and I was very moved by the company he had built!
 
-{{< figure src="desk.jpg" title="My desk setup" align="center" width="600" >}}
+{{< figure src="8th_floor.jpg" align="center" title="Refreshment Counter">}}
 
 ## Month 2
 The second month was much more exciting, since I had finally coding stuff! The first commit we had to make was simply adding my name to the New-Hires list, and funnily enough, it took me two weeks to get that through 😂. It somehow required permissions of a privileged group, and I thought the issue was too insignificant to my manager. That was the commit that took me the longest time to push, throughout my internship! ☠️.
@@ -57,14 +60,6 @@ My first actual commit was to print the status of all nodes connected to the clu
 Thanks to the meticulous PoC I conducted earlier, the coding was very simple and straightforward. Creating test deployments and code reviews used to take up most of the time, and rightly so!
 > *"“Don’t fix bugs later; fix them now.” - Steve Maguire*
 
-<!-- <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="timelapse.mp4" type="video/mp4">
-  </video>
-</figure> -->
-
-<!-- Embed timelapse video here -->
-    
 {{< figure src="timelapse2.gif" title="Proof that I work xD" align="center" width="600">}}
 
 Three new grads had also joined the team, Atharva, Samiksha and Animesh. Atharva would continue on my project after my internship was over, and we used to chat a lot through the day!
