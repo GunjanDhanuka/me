@@ -63,7 +63,7 @@ Thanks to the meticulous PoC I conducted earlier, the coding was very simple and
 
 <!-- Embed timelapse video here -->
     
-{{< figure src="timelapse.gif" title="Timelapse of my work" align="center" width="600">}}
+{{< figure src="timelapse2.gif" title="Proof that I work xD" align="center" width="600">}}
 
 Three new grads had also joined the team, Atharva, Samiksha and Animesh. Atharva would continue on my project after my internship was over, and we used to chat a lot through the day!
 Soon we had my first team outing, where we went for lunch and then to my very first **Escape Room**! The theme of the room was Nuclear Bunker, and we managed to do a pretty good job of cracking most of the puzzles (while ignoring the most blatant clues 🤣).
