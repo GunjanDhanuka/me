@@ -9,10 +9,12 @@ ShowToc = false
 
 In the summer of 2023, I got an opportunity to intern as a Software Engineer at Rubrik's India office in Bengaluru. Let's reflect back on some of the experiences of my internship together. Separate blog on Namma Bengaluru coming soon!
 
+{{< figure src="cessna.jpg" align="center" title="Cessna Business Park" >}}
+
 ## Day 0
 So we (Aman and myself) landed in Bengaluru directly from Guwahati on a fine Saturday afternoon and checked in to our hotels. The weekend was spent in interacting with other interns who were mostly from other old IITs, IIIT-H and BITS. The people had a diverse skillsets and we discussed (*read, complained*) at length about the people, courses and profs at our institutes xD. However, I was very excited to know the CS curriculum (especially at IIT Delhi) was much more hands-on and flexible. I wish IITG soon moves towards such a structure.
 
-{{< figure src="8th_floor.jpg" align="center">}}
+{{< figure src="8th_floor.jpg" align="center" title="Refreshment Counter">}}
 
 ## Day 1
 So, the first Monday all of us were ready on time and boarded the office cabs at 9 AM sharp. Upon reaching, we were treated with scrumptous breakfast and given our schedules for the week. It was going to be an exciting (*more on that later*) week with all the teams presenting a broad idea of what they do. Also, we were all alloted a buddy/mentor who is a full-time SDE at Rubrik, and will be helping us with regular issues. We would report to our managers, who will assign us projects and tasks.
