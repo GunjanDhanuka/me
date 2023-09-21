@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gunjan Dhanuka</title>
-    <link>https://me.gunjandhanuka.com/</link>
-    <description>Recent content on Gunjan Dhanuka</description>
+    <title>Posts on Gunjan Dhanuka</title>
+    <link>https://me.gunjandhanuka.com/posts/</link>
+    <description>Recent content in Posts on Gunjan Dhanuka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:03:15 +0530</lastBuildDate><atom:link href="https://me.gunjandhanuka.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects</title>
-      <link>https://me.gunjandhanuka.com/projects/</link>
-      <pubDate>Tue, 19 Sep 2023 16:17:08 +0530</pubDate>
-      
-      <guid>https://me.gunjandhanuka.com/projects/</guid>
-      <description>Coming Soon </description>
-    </item>
-    
+    <lastBuildDate>Tue, 19 Sep 2023 00:03:15 +0530</lastBuildDate><atom:link href="https://me.gunjandhanuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://me.gunjandhanuka.com/posts/my-first-post/</link>
@@ -33,15 +24,6 @@ So I have written some stuff in the past on Quora and Medium, but just before th
       
       <guid>https://me.gunjandhanuka.com/posts/freshman-year-at-iit-guwahati/</guid>
       <description>��+�+�+�� �t�i�t�l�e� �=� �&amp;rsquo;�F�r�e�s�h�m�a�n� �Y�e�a�r� �a�t� �I�I�T� �G�u�w�a�h�a�t�i�&amp;rsquo;�� �d�a�t�e� �=� �2�0�2�3�-�0�9�-�1�9�T�0�0�:�4�9�:�1�5�+�0�5�:�3�0�� �d�r�a�f�t� �=� �f�a�l�s�e�� �+�+�+�� �P�.�S�.�:� �T�h�i�s� �i�s� �a� �r�e�p�o�s�t� �o�f� �a� �M�e�d�i�u�m� �a�r�t�i�c�l�e� �I� �w�r�o�t�e�,� �a�p�p�r�o�x� �t�h�r�e�e� �y�e�a�r�s� �a�g�o�.� �A�n�d� �I� �g�e�n�u�i�n�e�l�y� �b�e�l�i�e�v�e� �m�y� �w�r�i�t�i�n�g� �s�t�y�l�e� �i�m�p�r�o�v�e�s� �w�i�t�h� �m�e� �=�B�� �� �S�o�,� �J�E�E� �A�d�v�a�n�c�e�d� �h�a�p�p�e�n�e�d�,� �a�n�d� �I� �f�o�u�n�d� �m�y�s�e�l�f� �l�a�n�d�e�d� �a�t� �I�I�T� �G�u�w�a�h�a�t�i� �(�G�o�t�c�h�a� �1�:� �w�e�l�l�,� �n�o�t� �p�h�y�s�i�c�a�l�l�y�,� �b�u�t� �I� �m�e�a�n� �I� �d�i�d� �g�e�t� �t�h�e� �@�i�i�t�g�.</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://me.gunjandhanuka.com/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://me.gunjandhanuka.com/search/</guid>
-      <description>search</description>
     </item>
     
   </channel>
