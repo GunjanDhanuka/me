@@ -50,12 +50,12 @@ name = "Blogs"
 url = "/posts"
 
 [[params.profileMode.buttons]]
-name = "Github"
-url = "https://github.com/GunjanDhanuka"
-
-[[params.profileMode.buttons]]
 name = "CV"
 url = "https://gunjandhanuka.com/data/GunjanResume.pdf"
+
+[[params.profileMode.buttons]]
+name = "Academic Site"
+url = "https://gunjandhanuka.com/"
 
 [[params.socialIcons]]
 name = "Linkedin"
@@ -70,6 +70,10 @@ name = "Medium"
 url = "https://gunjan-dhanuka.medium.com/"
 
 [[params.socialIcons]]
-name = "Mail"
+name = "Github"
+url = "https://github.com/GunjanDhanuka"
+
+[[params.socialIcons]]
+name = "Email"
 url = "https://gunjan-dhanuka.medium.com/"
 
