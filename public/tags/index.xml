@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Gunjan Dhanuka</title>
     <link>https://me.gunjandhanuka.com/tags/</link>
     <description>Recent content in Tags on Gunjan Dhanuka</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://me.gunjandhanuka.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2023 12:42:06 +0530</lastBuildDate><atom:link href="https://me.gunjandhanuka.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>career</title>
+      <link>https://me.gunjandhanuka.com/tags/career/</link>
+      <pubDate>Thu, 21 Sep 2023 12:42:06 +0530</pubDate>
+      
+      <guid>https://me.gunjandhanuka.com/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experience</title>
+      <link>https://me.gunjandhanuka.com/tags/experience/</link>
+      <pubDate>Thu, 21 Sep 2023 12:42:06 +0530</pubDate>
+      
+      <guid>https://me.gunjandhanuka.com/tags/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intern</title>
+      <link>https://me.gunjandhanuka.com/tags/intern/</link>
+      <pubDate>Thu, 21 Sep 2023 12:42:06 +0530</pubDate>
+      
+      <guid>https://me.gunjandhanuka.com/tags/intern/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

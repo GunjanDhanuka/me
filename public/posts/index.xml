@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Gunjan Dhanuka</title>
     <link>https://me.gunjandhanuka.com/posts/</link>
     <description>Recent content in Posts on Gunjan Dhanuka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:03:15 +0530</lastBuildDate><atom:link href="https://me.gunjandhanuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 12:42:06 +0530</lastBuildDate><atom:link href="https://me.gunjandhanuka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer Internship Experience at Rubrik</title>
+      <link>https://me.gunjandhanuka.com/posts/intern-at-rubrik/</link>
+      <pubDate>Thu, 21 Sep 2023 12:42:06 +0530</pubDate>
+      
+      <guid>https://me.gunjandhanuka.com/posts/intern-at-rubrik/</guid>
+      <description>The most productive and fun summer I had!</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://me.gunjandhanuka.com/posts/my-first-post/</link>
@@ -15,15 +24,6 @@
       <guid>https://me.gunjandhanuka.com/posts/my-first-post/</guid>
       <description>Hey! I suppose it&amp;rsquo;s your first time here. Welcome to my blog 😄. I am Gunjan Dhanuka, a CS undergrad at IIT Guwahati, who is into a lot of stuff like gaming, photography, consuming YouTube content (and creating my own too 😇), and travelling!
 So I have written some stuff in the past on Quora and Medium, but just before the night of my Hardware Security Midsems, an interesting thought strikes me.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://me.gunjandhanuka.com/posts/freshman-year-at-iit-guwahati/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://me.gunjandhanuka.com/posts/freshman-year-at-iit-guwahati/</guid>
-      <description>��+�+�+�� �t�i�t�l�e� �=� �&amp;rsquo;�F�r�e�s�h�m�a�n� �Y�e�a�r� �a�t� �I�I�T� �G�u�w�a�h�a�t�i�&amp;rsquo;�� �d�a�t�e� �=� �2�0�2�3�-�0�9�-�1�9�T�0�0�:�4�9�:�1�5�+�0�5�:�3�0�� �d�r�a�f�t� �=� �f�a�l�s�e�� �+�+�+�� �P�.�S�.�:� �T�h�i�s� �i�s� �a� �r�e�p�o�s�t� �o�f� �a� �M�e�d�i�u�m� �a�r�t�i�c�l�e� �I� �w�r�o�t�e�,� �a�p�p�r�o�x� �t�h�r�e�e� �y�e�a�r�s� �a�g�o�.� �A�n�d� �I� �g�e�n�u�i�n�e�l�y� �b�e�l�i�e�v�e� �m�y� �w�r�i�t�i�n�g� �s�t�y�l�e� �i�m�p�r�o�v�e�s� �w�i�t�h� �m�e� �=�B�� �� �S�o�,� �J�E�E� �A�d�v�a�n�c�e�d� �h�a�p�p�e�n�e�d�,� �a�n�d� �I� �f�o�u�n�d� �m�y�s�e�l�f� �l�a�n�d�e�d� �a�t� �I�I�T� �G�u�w�a�h�a�t�i� �(�G�o�t�c�h�a� �1�:� �w�e�l�l�,� �n�o�t� �p�h�y�s�i�c�a�l�l�y�,� �b�u�t� �I� �m�e�a�n� �I� �d�i�d� �g�e�t� �t�h�e� �@�i�i�t�g�.</description>
     </item>
     
   </channel>
