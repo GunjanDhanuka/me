@@ -2,6 +2,7 @@
 title = 'Pending Blogs List'
 date = 2023-12-29T23:59:13+05:30
 draft = true
+math = true
 +++
 A list for the posts I have to write (in no priority order):-
 
@@ -16,3 +17,10 @@ A list for the posts I have to write (in no priority order):-
 - [ ] Inter-IIT experience (past three years)
 - [ ] A photo gallery/album
 - [ ] Experience as Coding Club secretary
+- [ ] Linear Algebra Notes from Gilbert Strang
+- [ ] Notes from the blogs you read on LLMs
+
+This is an inline $ a_1 + a_2 = b_1 $ equation.
+
+This is a block equation: 
+$$ P = VI $$
