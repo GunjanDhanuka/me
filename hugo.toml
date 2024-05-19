@@ -17,6 +17,7 @@ ShowBreadCrumbs = true
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
 comments = true
+math = true
 
 [params.profileMode]
 enabled = true

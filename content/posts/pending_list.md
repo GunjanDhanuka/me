@@ -16,3 +16,6 @@ A list for the posts I have to write (in no priority order):-
 - [ ] Inter-IIT experience (past three years)
 - [ ] A photo gallery/album
 - [ ] Experience as Coding Club secretary
+
+$ a + b = c $
+$$ a + b = c $$
