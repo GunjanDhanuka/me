@@ -3,7 +3,7 @@ title = 'Everything you need to know about IIT Guwahati CSE'
 date = 2024-06-30T01:32:42+05:30
 description = "A comprehensive guide to all prospective or current students on what to expect at IITG, with tidbits of advice."
 draft = false
-tags = ['experience', 'career', 'intern']
+tags = ['experience', 'academics', 'iit guwahati', 'advice']
 ShowToc = true
 [cover]
 image="posts/iit-guwahati-cse/iitg_campus.jpg"
@@ -90,7 +90,7 @@ All in all, the placement at IIT Guwahati is at par with all other older IITs es
 
 # Alumni Network and Peer Group
 
-The peer group at IIT G CSE is very diverse and competitive in a healthy way. You will find someone who is doing cutting-edge research, someone who excels at hacking stuff out, someone who can understand all theoretical courses, someone who has a Greek-god physique, someone slogging it out for that off-campus role, etc etc. An advantage of having such high cutoff is that the folks who come here are very hard-working and motivated. Though Guwahati's weather does make people complacent, you'll definitely find enough folks who are dead serious on whatever they are doing. And it is always a pleasure to know such people.
+The peer group at IIT G CSE is very diverse and competitive in a healthy way. You will find someone who is doing cutting-edge research, someone who excels at hacking stuff out, someone who can understand all theoretical courses, someone who has a Greek-god physique, someone slogging it out for that off-campus role, etc etc. An advantage of having such high cutoff is that the folks who come here are very hard-working and motivated. Though Guwahati's weather does make people complacent, you'll definitely find enough folks who are dead serious on whatever they are doing. And it is always a pleasure to know such people. The best thing about IITs (especially the older ones) is the peer group, and not the professors or the facilities. It is these group of people around you who keep you motivated, celebrate when you succeed and are there to support you when you need it the most. I am glad I could make many such friends during my IITG days 🤍.
 
 IIT Guwahati was established in 1994, and hence its alumni network is strong as compared to newer IITs, yet lacks when compared to other older IITs. This is obvious since many of our alumni are still young, working on their startups, climbing in the corporate ladder or pursuing research in their field. From IIT Guwahati CSE, you can find people pursuing Masters and PhDs in top universities like Carnegie Mellon University, UIUC, Georgia Tech, UT Austin, etc. Moreover, IITG CSE alumni are working in leading positions as managers or engineers in the international offices of big-tech firms like Google, Meta, Microsoft, etc. Quite a few folks have also started their own ventures, and there is some support available within IITG as well to support startup ideas.
 
@@ -112,12 +112,12 @@ We have constantly been performing brilliantly in Inter-IIT competitions, especi
 
 I hope this blog gave you a good idea of what IIT Guwahati is about, and what it can offer to you. If you are evaluating IITG CSE with something like IITD EEE or IITK EEE or IITKgp Dual degree, keep in mind that branch change is dependent on a lot of factors and may even be totally removed soon [^3]. If you are sure that you want to do CSE from first-year itself, IIT Guwahati will be perfect for you. However if you are unsure and think that an older IIT will give you more exposure, feel free to talk to an ex-student. I always wanted to go for a Masters at a top university, even before I had decided to go to IIT Guwahati. IITD EEE seem liked a good choice considering the brand name of IITD, but I am sure I wouldn't have enjoyed the EEE courses for four years. And after getting admitted to CMU, I am very happy that I came to IITG. The journey was definitely not the smoothest, and I even questioned my choice sometimes. But as always, I believed in *Do your best, and forget the rest* and destiny helped along the way.
 
-All the best,
+All the best, \
 *G.D.*
 
 Feel free to contact me at <gdhanuka192@gmail.com> or <https://www.linkedin.com/in/gunjan-dhanuka/>.
 
-> Special thanks to Aman Bucha, Anindya Vijayvargeeya and Siddharth Bansal for giving me ideas to make this writeup more complete.
+> Special thanks to Aman Bucha, Anindya Vijayvargeeya and Siddharth Bansal for giving me feedback to make this writeup more complete.
 
 [^3]: <https://insightiitb.org/removal-of-branch-change-policy-behind-the-curtains>
 
