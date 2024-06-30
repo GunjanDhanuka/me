@@ -16,6 +16,8 @@ A list for the posts I have to write (in no priority order):-
 - [ ] Inter-IIT experience (past three years)
 - [ ] A photo gallery/album
 - [ ] Experience as Coding Club secretary
+- [ ] How to get remote research internships?
+- [ ] IIT Guwahati CSE (to a fresher/for counseling)
 
 $ a + b = c $
 $$ a + b = c $$
