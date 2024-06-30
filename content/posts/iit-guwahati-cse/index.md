@@ -90,6 +90,8 @@ All in all, the placement at IIT Guwahati is at par with all other older IITs es
 
 # Alumni Network and Peer Group
 
+The peer group at IIT G CSE is very diverse and competitive in a healthy way. You will find someone who is doing cutting-edge research, someone who excels at hacking stuff out, someone who can understand all theoretical courses, someone who has a Greek-god physique, someone slogging it out for that off-campus role, etc etc. An advantage of having such high cutoff is that the folks who come here are very hard-working and motivated. Though Guwahati's weather does make people complacent, you'll definitely find enough folks who are dead serious on whatever they are doing. And it is always a pleasure to know such people.
+
 IIT Guwahati was established in 1994, and hence its alumni network is strong as compared to newer IITs, yet lacks when compared to other older IITs. This is obvious since many of our alumni are still young, working on their startups, climbing in the corporate ladder or pursuing research in their field. From IIT Guwahati CSE, you can find people pursuing Masters and PhDs in top universities like Carnegie Mellon University, UIUC, Georgia Tech, UT Austin, etc. Moreover, IITG CSE alumni are working in leading positions as managers or engineers in the international offices of big-tech firms like Google, Meta, Microsoft, etc. Quite a few folks have also started their own ventures, and there is some support available within IITG as well to support startup ideas.
 
 The best way to find alumni associated with your line of thought is to explore LinkedIn. LinkedIn is often overlooked by college undergrads as simply a place where *nerds* boast about themselves. If you use the platform properly, you get to network with people far far away from you, and it is these networks that will serve you best when you want to apply to that dream school of yours, or need a referral for that awesome role, or simply need life advice from someone who was once there where you are now. It would be a strong advice from me to every student to network as much as possible on LinkedIn. No need to keep scrolling through memes and influencers, instead see what **successful people** (whatever maybe your definition of success) are doing.
@@ -114,6 +116,8 @@ All the best,
 *G.D.*
 
 Feel free to contact me at <gdhanuka192@gmail.com> or <https://www.linkedin.com/in/gunjan-dhanuka/>.
+
+> Special thanks to Aman Bucha, Anindya Vijayvargeeya and Siddharth Bansal for giving me ideas to make this writeup more complete.
 
 [^3]: <https://insightiitb.org/removal-of-branch-change-policy-behind-the-curtains>
 
